@@ -1,0 +1,20 @@
+.container {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.infoText {
+  font-weight: 700;
+  font-family: "Inter", sans-serif;
+}
+
+.count {
+  color: var(--gray-200);
+  font-size: 12px;
+  font-weight: 700;
+
+  border-radius: 999px;
+  background: var(--gray-400);
+  padding: 2px 8px;
+}
