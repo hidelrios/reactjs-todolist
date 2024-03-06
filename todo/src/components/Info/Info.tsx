@@ -2,7 +2,7 @@ import styles from "./Info.module.css";
 
 type Props = {
   info: string;
-  count: string;
+  count: number;
   type: "task_created" | "task_completed";
 };
 

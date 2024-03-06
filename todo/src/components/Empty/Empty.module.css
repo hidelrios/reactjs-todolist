@@ -11,6 +11,7 @@
   border-radius: 0.5rem;
   border-top: 1px solid var(--gray-400);
 }
+
 span {
   color: var(--gray-300);
   text-align: center;
