@@ -1,6 +1,3 @@
-import cicle_on from "../../assets/cicle-on.svg";
-import cicle_off from "../../assets/cicle-off.svg";
-import trash from "../../assets/trash.svg";
 import styles from "./Task.module.css";
 import { Trash, Circle, CheckCircle } from "@phosphor-icons/react";
 
